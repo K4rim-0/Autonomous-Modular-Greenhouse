@@ -8,6 +8,7 @@ Abstract
 Plants are susceptible to environmental condition shifts when young or when in weakened states. To help resolve this issue I Have devised a system to help manage the environmental conditions which the plant inhabits. The system sits at the boundary between climate controlled indoors environment and the tent (made of transparent plastic film or opaque reflective metal film) microbiome. This version is intended for plants which cannot handle the coldness of air-conditioned rooms nor the extreme heat and humidity of the outdoors.
 
 Description
+
 This model consists of:
 
 •	The central control unit: a ~16*16*16 cm cube with temperature/ humidity and light sensor. OLED screen, rotary encoder, status led and ports to connect to other components.
