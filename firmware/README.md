@@ -15,3 +15,5 @@ Same goes for reading sensor, I set them to be read once every 5 seconds. Point 
 Also, the rp2040 has two cores, so it is possible to split up the load among the two cores to increase responsiveness, though I personally haven't done this. This project has already taken long enough.
 
 A slightly silly mistake that set me back was connecting the digital reading from the DHT22 to an analogue pin and causing leakage to other neighboring pins on the rp2040 zero and leading to a faulty reading from capacitive soil moisture sensor (connected to analogue pin).
+
+Among the code files are also libraries which have been published here, the names of their author is there (rotary.py and rotary_irq_rp2.py). I primarily made these classes to make it easier to read and understand the code when implementing them into main.py.
