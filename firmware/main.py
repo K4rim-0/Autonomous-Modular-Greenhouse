@@ -153,7 +153,7 @@ atomizer_run_time = time.ticks_ms()
 atomizer_active_time = 10*1000
 
 last_light_check = time.ticks_ms()
-light_interval = 20 * 1000
+light_interval = 3600 * 1000
 lamp_active = False
 
 ldr_pause = time.ticks_ms()	#this is to give the ldr time to calibrate to ambient
