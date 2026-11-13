@@ -5,7 +5,7 @@ V 0.1
 
 Abstract
 
-Plants are susceptible to environmental condition shifts when young or when in weakened states. To help resolve this issue I Have devised a system to help manage the environmental conditions which the plant inhabits. The system sits at the boundary between climate controlled indoors environment and the tent (made of transparent plastic film or opaque reflective metal film) microbiome. This version is intended for plants which cannot handle the coldness of air-conditioned rooms nor the extreme heat and humidity of the outdoors.
+Plants are susceptible to environmental condition shifts when young or when in weakened states. To help resolve this issue I Have devised a system to help manage the environmental conditions which the plant inhabits. The system sits at the boundary between climate controlled indoors environment and the tent (made of transparent plastic film or opaque reflective metal film) microclimate. This version is intended for plants which cannot handle the coldness of air-conditioned rooms nor the extreme heat and humidity of the outdoors.
 
 Description
 
