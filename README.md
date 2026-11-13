@@ -24,4 +24,6 @@ This model consists of:
 The user interacts with the system through the encoder by rotating and pressing it. This allows them to navigate the menu, which allows them to set parameters which will be maintained by the system.
 The system can maintain a single grown plant or raise a batch of seedling in a tray
 
+[Full documentation PDF](docs/Automated_Modular_Greenhouse_Docs.pdf)
+
 <img width="397" height="397" alt="image" src="https://github.com/user-attachments/assets/acd577ba-6438-4dbc-b98a-b503aa3f4f0a" />
